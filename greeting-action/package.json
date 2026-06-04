@@ -1,0 +1,14 @@
+{
+  "name": "greet-user-action",
+  "version": "1.0.0",
+  "description": "Une action GitHub qui salue un utilisateur",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@actions/core": "^3.0.1"
+  }
+}
